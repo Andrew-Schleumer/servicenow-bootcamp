@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Catalog for Loja Bizarra</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page>/biz</desktop_home_page>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 07:21:35</sys_created_on>
+        <sys_id>a116a13f970c71103cc037971153af09</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loja Bizarra Catalog</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sc_catalog_a116a13f970c71103cc037971153af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 19:55:15</sys_updated_on>
+        <title>Loja Bizarra Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=a116a13f970c71103cc037971153af09"/>
+</record_update>

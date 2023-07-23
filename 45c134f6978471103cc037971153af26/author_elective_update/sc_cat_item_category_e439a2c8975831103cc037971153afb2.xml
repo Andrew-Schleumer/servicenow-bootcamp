@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Novo Produto">73c5eac4975831103cc037971153af71</sc_cat_item>
+        <sc_category display_value="Loja Bizarra Category">11631cc4971031103cc037971153af0b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:51:26</sys_created_on>
+        <sys_id>e439a2c8975831103cc037971153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja Bizarra Category.Novo Produto</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sc_cat_item_category_e439a2c8975831103cc037971153afb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:51:26</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sc_cat_item_category_e439a2c8975831103cc037971153afb2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Novo Produto">73c5eac4975831103cc037971153af71</sc_cat_item><sc_category display_value="Loja Bizarra Category">11631cc4971031103cc037971153af0b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-23 06:51:26</sys_created_on><sys_id>e439a2c8975831103cc037971153afb2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loja Bizarra Category.Novo Produto</sys_name><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sc_cat_item_category_e439a2c8975831103cc037971153afb2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-23 06:51:26</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>255515363</payload_hash>
+        <record_name>Loja Bizarra Category.Novo Produto</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:51:26</sys_created_on>
+        <sys_id>a839a2c8975831103cc037971153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18981846d470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:51:26</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2c39a2c81458311033cf3b7a995539b5</update_guid>
+        <update_guid_history>2c39a2c81458311033cf3b7a995539b5:255515363</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loja Bizarra Category.Novo Produto">614926c8975831103cc037971153af32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:51:48</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0ae80ad9fd234edfb50d2fcd42001eb1</sys_id>
+        <sys_metadata>e439a2c8975831103cc037971153afb2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja Bizarra Category.Novo Produto</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_e439a2c8975831103cc037971153afb2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_e439a2c8975831103cc037971153afb2">a839a2c8975831103cc037971153afb6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:51:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

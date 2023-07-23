@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Minha Aplicação">adf1453a97c471103cc037971153af02</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Inventário</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 01:44:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0416424f97c031103cc037971153af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventário</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sys_app_module_0416424f97c031103cc037971153af5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 01:44:15</sys_updated_on>
+        <timeline_page/>
+        <title>Inventário</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sys_app_module_0416424f97c031103cc037971153af5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Minha Aplicação">adf1453a97c471103cc037971153af02</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Inventário</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-20 01:44:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0416424f97c031103cc037971153af5b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inventário</sys_name><sys_overrides/><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sys_app_module_0416424f97c031103cc037971153af5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-20 01:44:15</sys_updated_on><timeline_page/><title>Inventário</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-822366002</payload_hash>
+        <record_name>Inventário</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 01:44:15</sys_created_on>
+        <sys_id>d316424f97c031103cc037971153af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18970f81a660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 01:44:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1b16424f0ec031106c521ec67c11198c</update_guid>
+        <update_guid_history>1b16424f0ec031106c521ec67c11198c:-822366002</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Inventário">f8368a4f97c031103cc037971153af28</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 01:44:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>03993feddeb240008a0b91a3f0beb100</sys_id>
+        <sys_metadata>0416424f97c031103cc037971153af5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inventário</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sys_app_module_0416424f97c031103cc037971153af5b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0416424f97c031103cc037971153af5b">d316424f97c031103cc037971153af8d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 01:44:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

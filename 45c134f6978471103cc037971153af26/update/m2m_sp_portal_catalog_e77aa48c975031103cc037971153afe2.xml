@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Loja Bizarra Catalog">a116a13f970c71103cc037971153af09</sc_catalog>
+        <sp_portal display_value="Loja Bizarra">25fc88bf978471103cc037971153af60</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 21:37:58</sys_created_on>
+        <sys_id>e77aa48c975031103cc037971153afe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja Bizarra Catalog.Loja Bizarra</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_e77aa48c975031103cc037971153afe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 21:37:58</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Novo Pedido">487b54cc971031103cc037971153afc6</sc_cat_item>
+        <sc_category display_value="Loja Bizarra Category">11631cc4971031103cc037971153af0b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 21:22:51</sys_created_on>
+        <sys_id>af07ec88975031103cc037971153af05</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loja Bizarra Category.Novo Pedido</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sc_cat_item_category_af07ec88975031103cc037971153af05</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-22 21:26:12</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sc_cat_item_category_af07ec88975031103cc037971153af05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Novo Pedido">487b54cc971031103cc037971153afc6</sc_cat_item><sc_category display_value="Loja Bizarra Category">11631cc4971031103cc037971153af0b</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-22 21:22:51</sys_created_on><sys_id>af07ec88975031103cc037971153af05</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loja Bizarra Category.Novo Pedido</sys_name><sys_package/><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sc_cat_item_category_af07ec88975031103cc037971153af05</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-22 21:26:12</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1887169278</payload_hash>
+        <record_name>Loja Bizarra Category.Novo Pedido</record_name>
+        <reverted_from/>
+        <source>77a53848979031103cc037971153af27</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-22 22:26:46</sys_created_on>
+        <sys_id>7fa53848979031103cc037971153af35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1897fb662cd0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-22 22:26:46</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>73a53848f4903110fae57dd45596c135</update_guid>
+        <update_guid_history>73a53848f4903110fae57dd45596c135:-1887169278,20d76cc8f650311061ca21cc081fe857:-1652499826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loja Bizarra Category.Novo Pedido">3fa53848979031103cc037971153af39</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-22 22:26:46</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>7b7db982ce874656ad22dc6615ad5424</sys_id>
+        <sys_metadata>af07ec88975031103cc037971153af05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja Bizarra Category.Novo Pedido</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_af07ec88975031103cc037971153af05</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_af07ec88975031103cc037971153af05">7fa53848979031103cc037971153af35</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-22 22:26:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

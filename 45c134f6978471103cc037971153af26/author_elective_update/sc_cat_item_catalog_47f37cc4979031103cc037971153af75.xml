@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Novo Pedido">487b54cc971031103cc037971153afc6</sc_cat_item>
+        <sc_catalog display_value="Loja Bizarra Catalog">a116a13f970c71103cc037971153af09</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 22:19:21</sys_created_on>
+        <sys_id>47f37cc4979031103cc037971153af75</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loja Bizarra Catalog.Novo Pedido</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_47f37cc4979031103cc037971153af75</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-22 22:26:46</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sc_cat_item_catalog_47f37cc4979031103cc037971153af75</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Novo Pedido">487b54cc971031103cc037971153afc6</sc_cat_item><sc_catalog display_value="Loja Bizarra Catalog">a116a13f970c71103cc037971153af09</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-22 22:19:21</sys_created_on><sys_id>47f37cc4979031103cc037971153af75</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loja Bizarra Catalog.Novo Pedido</sys_name><sys_package/><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sc_cat_item_catalog_47f37cc4979031103cc037971153af75</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-22 22:26:46</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1727612181</payload_hash>
+        <record_name>Loja Bizarra Catalog.Novo Pedido</record_name>
+        <reverted_from/>
+        <source>45603e80979831103cc037971153af11</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-23 07:22:53</sys_created_on>
+        <sys_id>85603e80979831103cc037971153af17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18981a136250000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-23 07:22:53</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>49603e8038983110d2add346ae792d16</update_guid>
+        <update_guid_history>49603e8038983110d2add346ae792d16:-1727612181,77a53848eb903110ed3b5986ea097a33:-211192585</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loja Bizarra Catalog.Novo Pedido">c9603e80979831103cc037971153af1a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-23 07:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>11c96dff078148a5813c877f0e728f91</sys_id>
+        <sys_metadata>47f37cc4979031103cc037971153af75</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loja Bizarra Catalog.Novo Pedido</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent display_value="Novo Pedido">487b54cc971031103cc037971153afc6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_47f37cc4979031103cc037971153af75</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_47f37cc4979031103cc037971153af75">85603e80979831103cc037971153af17</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-23 07:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

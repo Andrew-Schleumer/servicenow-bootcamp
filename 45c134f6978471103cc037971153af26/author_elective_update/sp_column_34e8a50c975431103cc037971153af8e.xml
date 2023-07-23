@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>1</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">892cd87f97c471103cc037971153af24</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 02:10:29</sys_created_on>
+        <sys_id>34e8a50c975431103cc037971153af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sp_column_34e8a50c975431103cc037971153af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 02:10:29</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sp_column_34e8a50c975431103cc037971153af8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>1</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">892cd87f97c471103cc037971153af24</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-23 02:10:29</sys_created_on><sys_id>34e8a50c975431103cc037971153af8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sp_column_34e8a50c975431103cc037971153af8e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-23 02:10:29</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-512710107</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 02:10:29</sys_created_on>
+        <sys_id>7ce8690c975431103cc037971153afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189808332bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 02:10:29</sys_updated_on>
+        <type>Column</type>
+        <update_guid>b0e8690cb15431101c621f15117b1aac</update_guid>
+        <update_guid_history>b0e8690cb15431101c621f15117b1aac:-512710107</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">4ae8650c975431103cc037971153aff3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 02:10:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>47a5f3de72fa43908d46596d3d2ce3a4</sys_id>
+        <sys_metadata>34e8a50c975431103cc037971153af8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sp_column_34e8a50c975431103cc037971153af8e</sys_update_name>
+        <sys_update_version display_value="sp_column_34e8a50c975431103cc037971153af8e">7ce8690c975431103cc037971153afac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 02:10:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

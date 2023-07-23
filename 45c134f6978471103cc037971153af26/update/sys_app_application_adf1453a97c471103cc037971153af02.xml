@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles>admin,user</roles>
+        <roles>admin,user,x_223313_control_0.analistas_role,x_223313_control_0.supervisores_role</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-19 02:08:56</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>adf1453a97c471103cc037971153af02</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Minha Aplicação</sys_name>
         <sys_overrides/>
         <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
         <sys_update_name>sys_app_application_adf1453a97c471103cc037971153af02</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-19 02:09:50</sys_updated_on>
+        <sys_updated_on>2023-07-20 01:56:39</sys_updated_on>
         <title>Minha Aplicação</title>
         <view_name/>
     </sys_app_application>

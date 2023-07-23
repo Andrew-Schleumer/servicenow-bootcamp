@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Minha Aplicação">adf1453a97c471103cc037971153af02</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Novo pedido</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_pedidos</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-19 02:11:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aeb2093a97c471103cc037971153afd9</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Cadastrar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sys_app_module_aeb2093a97c471103cc037971153afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 01:47:47</sys_updated_on>
+        <timeline_page/>
+        <title>Cadastrar</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sys_app_module_aeb2093a97c471103cc037971153afd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Minha Aplicação">adf1453a97c471103cc037971153af02</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Novo pedido</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_pedidos</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-19 02:11:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aeb2093a97c471103cc037971153afd9</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Cadastrar</sys_name><sys_overrides/><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sys_app_module_aeb2093a97c471103cc037971153afd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-20 01:47:47</sys_updated_on><timeline_page/><title>Cadastrar</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>271434003</payload_hash>
+        <record_name>Cadastrar</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 01:47:47</sys_created_on>
+        <sys_id>87e60a8f97c031103cc037971153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18970fb57150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 01:47:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4fe60a8fc8c0311028b251b82bee4eb1</update_guid>
+        <update_guid_history>4fe60a8fc8c0311028b251b82bee4eb1:271434003,28b6828f75c031105c1aeb2082c6c0f0:-1247204147,63564a4f32c031104f13cde7c73fc01e:1676626577,bae5420f46c03110c3954a18eb671114:295372570,3cc95d03e1403110bc13298b3af48893:1937431122,6b995d03834031107d101e516339058f:-1433609639,5ea8d5cfc200311028ecea0470707bf8:1937431122,bcd20d3af8c4711046d829166adc85d0:-1433609639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cadastrar">29e35a97970031103cc037971153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 21:22:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0bea31fe6e9441ec824a98e937dd7de4</sys_id>
+        <sys_metadata>aeb2093a97c471103cc037971153afd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cadastrar</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sys_app_module_aeb2093a97c471103cc037971153afd9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_aeb2093a97c471103cc037971153afd9">87e60a8f97c031103cc037971153afb2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 21:22:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

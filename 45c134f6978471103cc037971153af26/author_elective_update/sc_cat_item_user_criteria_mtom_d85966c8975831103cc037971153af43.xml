@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Novo Produto">73c5eac4975831103cc037971153af71</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:51:58</sys_created_on>
+        <sys_id>d85966c8975831103cc037971153af43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Produto.Pedidos Supervisor</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d85966c8975831103cc037971153af43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:51:58</sys_updated_on>
+        <user_criteria display_value="Pedidos Supervisor">6c5e2077974871103cc037971153af87</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_d85966c8975831103cc037971153af43</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Novo Produto">73c5eac4975831103cc037971153af71</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-23 06:51:58</sys_created_on><sys_id>d85966c8975831103cc037971153af43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Novo Produto.Pedidos Supervisor</sys_name><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_d85966c8975831103cc037971153af43</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-23 06:51:58</sys_updated_on><user_criteria display_value="Pedidos Supervisor">6c5e2077974871103cc037971153af87</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>253409376</payload_hash>
+        <record_name>Novo Produto.Pedidos Supervisor</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:51:58</sys_created_on>
+        <sys_id>905966c8975831103cc037971153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1898184e9cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:51:58</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>145966c8bd5831109e03f0c47b803053</update_guid>
+        <update_guid_history>145966c8bd5831109e03f0c47b803053:253409376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Novo Produto.Pedidos Supervisor">af59a6c8975831103cc037971153af3a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 06:52:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>84bb1f6172d543d899c423bae0e54440</sys_id>
+        <sys_metadata>d85966c8975831103cc037971153af43</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Produto.Pedidos Supervisor</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_d85966c8975831103cc037971153af43</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_d85966c8975831103cc037971153af43">905966c8975831103cc037971153af54</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 06:52:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

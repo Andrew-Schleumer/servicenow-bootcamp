@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-19 01:03:32</sys_created_on>
-            <sys_id>c5337c3a978471103cc037971153af12</sys_id>
+            <sys_created_on>2023-07-19 21:40:42</sys_created_on>
+            <sys_id>ef5e0187970031103cc037971153afc8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_223313_control_0_inventario" sys_domain="global" view="Default view">c1337c3a978471103cc037971153af0f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-19 01:03:32</sys_updated_on>
+            <sys_updated_on>2023-07-19 21:40:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,55 @@
             <element>item</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-19 01:03:32</sys_created_on>
-            <sys_id>4d337c3a978471103cc037971153af12</sys_id>
+            <sys_created_on>2023-07-19 21:40:42</sys_created_on>
+            <sys_id>a75e0187970031103cc037971153afc9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_223313_control_0_inventario" sys_domain="global" view="Default view">c1337c3a978471103cc037971153af0f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-19 01:03:32</sys_updated_on>
+            <sys_updated_on>2023-07-19 21:40:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>quantidade</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-19 01:03:32</sys_created_on>
-            <sys_id>cd337c3a978471103cc037971153af12</sys_id>
+            <sys_created_on>2023-07-19 21:40:42</sys_created_on>
+            <sys_id>2b5e0187970031103cc037971153afc9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_223313_control_0_inventario" sys_domain="global" view="Default view">c1337c3a978471103cc037971153af0f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-19 01:03:32</sys_updated_on>
+            <sys_updated_on>2023-07-19 21:40:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantidade</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-19 21:40:42</sys_created_on>
+            <sys_id>ab5e0187970031103cc037971153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_223313_control_0_inventario" sys_domain="global" view="Default view">c1337c3a978471103cc037971153af0f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-19 21:40:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>imagem</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-19 21:40:42</sys_created_on>
+            <sys_id>2f5e0187970031103cc037971153afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_223313_control_0_inventario" sys_domain="global" view="Default view">c1337c3a978471103cc037971153af0f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-19 21:40:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

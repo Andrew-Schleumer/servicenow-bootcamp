@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_instance_uc_can_view">
+    <m2m_sp_instance_uc_can_view action="DELETE">
+        <sp_instance display_value="">742c2cf3974871103cc037971153aff3</sp_instance>
+        <sys_class_name>m2m_sp_instance_uc_can_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 03:14:13</sys_created_on>
+        <sys_id>e4eda837974871103cc037971153af49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Pedidos Analista</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_update_name>m2m_sp_instance_uc_can_view_e4eda837974871103cc037971153af49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 03:14:13</sys_updated_on>
+        <user_criteria display_value="Pedidos Analista">f0cd2037974871103cc037971153af94</user_criteria>
+    </m2m_sp_instance_uc_can_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Controle de Inventário">45c134f6978471103cc037971153af26</application>
+        <file_path/>
+        <instance_id>3cbf563ddb64a1d0c1a4c597059619d5</instance_id>
+        <instance_name>dev147285</instance_name>
+        <name>m2m_sp_instance_uc_can_view_e4eda837974871103cc037971153af49</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_instance_uc_can_view"><m2m_sp_instance_uc_can_view action="INSERT_OR_UPDATE"><sp_instance display_value="">742c2cf3974871103cc037971153aff3</sp_instance><sys_class_name>m2m_sp_instance_uc_can_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-22 03:14:13</sys_created_on><sys_id>e4eda837974871103cc037971153af49</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.Pedidos Analista</sys_name><sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package><sys_policy/><sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope><sys_update_name>m2m_sp_instance_uc_can_view_e4eda837974871103cc037971153af49</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-22 03:14:13</sys_updated_on><user_criteria display_value="Pedidos Analista">f0cd2037974871103cc037971153af94</user_criteria></m2m_sp_instance_uc_can_view></record_update>]]></payload>
+        <payload_hash>172985725</payload_hash>
+        <record_name>.Pedidos Analista</record_name>
+        <reverted_from/>
+        <source>bcc1013a97c471103cc037971153af02</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-22 03:14:13</sys_created_on>
+        <sys_id>6ceda837974871103cc037971153af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1897b9731920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-22 03:14:13</sys_updated_on>
+        <type>Who Can View Instance</type>
+        <update_guid>a0eda837e14871107bac4aa66399664b</update_guid>
+        <update_guid_history>a0eda837e14871107bac4aa66399664b:172985725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".Pedidos Analista">d48dfd0097d431103cc037971153afb3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-23 03:40:34</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_instance_uc_can_view">m2m_sp_instance_uc_can_view</sys_db_object>
+        <sys_id>1e97dd7f65cc40c2b1acd10ca4fb9619</sys_id>
+        <sys_metadata>e4eda837974871103cc037971153af49</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Pedidos Analista</sys_name>
+        <sys_package display_value="Controle de Inventário" source="x_223313_control_0">45c134f6978471103cc037971153af26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Controle de Inventário">45c134f6978471103cc037971153af26</sys_scope>
+        <sys_scope_delete display_value="">1a0738c710a6423880e03627c207f784</sys_scope_delete>
+        <sys_update_name>m2m_sp_instance_uc_can_view_e4eda837974871103cc037971153af49</sys_update_name>
+        <sys_update_version display_value="m2m_sp_instance_uc_can_view_e4eda837974871103cc037971153af49">6ceda837974871103cc037971153af4b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-23 03:40:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
